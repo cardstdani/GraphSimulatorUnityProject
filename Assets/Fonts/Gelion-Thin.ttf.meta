@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6d15db8ae8b83974692a86ad29451ac6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gelion
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5b523e10ef28a9547ac60448b6d66fec, type: 3}
+  - {fileID: 12800000, guid: 906baac0a660c3748a3b654de39bde74, type: 3}
+  - {fileID: 12800000, guid: 68d70991b0be4f94ca6865fbcdc8c1b2, type: 3}
+  - {fileID: 12800000, guid: 3c2cfc827340319498a1bfe2842dfe5b, type: 3}
+  - {fileID: 12800000, guid: 71bfa8b37c0087e44b0114000e4f35a2, type: 3}
+  - {fileID: 12800000, guid: 61b96c041c6e92040b977d5c970e2d56, type: 3}
+  - {fileID: 12800000, guid: fc767887151ef8e4ca2126820860ebce, type: 3}
+  - {fileID: 12800000, guid: e82ffdda23e3cde48b0ca1b95ea622a1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
