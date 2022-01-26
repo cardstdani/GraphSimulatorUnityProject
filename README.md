@@ -1,2 +1,2 @@
 # GraphSimulatorUnityProject
-Link to test the game: https://simmer.io/@cardstdani/graphsimulator
+Link to test the application: https://simmer.io/@cardstdani/graphsimulator
